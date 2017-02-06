@@ -91,3 +91,5 @@ Released under [the MIT license][license].
 [install-docker]: https://registry.hub.docker.com/u/sdelements/lets-chat/
 [install-heroku]: https://github.com/sdelements/lets-chat/wiki/Heroku
 [install-vagrant]: https://github.com/sdelements/lets-chat/wiki/Vagrant
+
+Test    
